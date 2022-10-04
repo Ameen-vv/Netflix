@@ -1,0 +1,405 @@
+body{
+    margin: 0;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color:#303030;
+    padding: 0;
+    overflow-x: hidden;
+}
+.one{
+    width: 100%;
+    height: 700px;
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/b321426e-35ae-4661-b899-d63bca17648a/c6e22290-98e5-4eee-b72d-47156e4893fc/IN-en-20220926-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    background-size: cover;
+    float: left;
+}
+.grad{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    background-image: linear-gradient(to bottom,black,transparent);
+    
+ 
+}
+.logo{
+    width: 190px;
+    height: 112px;
+    background-image: url(images/logo.png);
+    background-size: cover;
+    margin-left: 33px;
+    padding-top: -5px;
+    position: relative;
+    top: -2%;
+}
+.lang{
+    background-color: transparent;
+    color: white;
+       border-width: 2px;
+    height: 34px;
+    width: 88px;
+    position: relative;
+    left: 81%;
+    bottom: 89px;
+    border-color: white;
+    border-radius: 4px;
+}
+.text_lang{
+    color: black;
+}
+.sign_in{
+    height: 34px;
+    width: 88px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    position: relative;
+    left: 88%;
+    bottom: 17.5%;
+    border-style: solid;
+    border-color: red;
+    border-width: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.text_body{
+    background-color: transparent;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+}
+.one_head{
+    color: white;
+    font-size: 63px;
+}
+.head2{
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+    position: relative;
+    bottom: 7%;
+}
+.head3{
+    color: white;
+    font-size: 19px;
+    font-weight: 550;
+    position: relative;
+    bottom: 7%;
+}
+.email{
+    width: 33%;
+    height: 61.5px;
+    position: relative;
+    right: 8%;
+    font-size: 15px;
+}
+
+.get_started{
+    margin-left: 34%;
+    position: relative;
+    bottom: 13.5%;
+    height: 67.5px;
+    width: 17%;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    border-color: red;
+    border-style: solid;
+    cursor: pointer;
+}
+.two{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    float: left;
+    margin-top: 5px;
+ 
+
+}
+.video_div{
+    width: 396px;
+    height: 224px;
+    background-color: black;
+    margin-left: 61.5%;
+    margin-top: -13%;
+    position: relative;
+    top: 60%;
+}
+.video1{
+    height: 100%;
+    width: 100%;
+}
+.tv{
+    position: relative;
+    bottom: 1%;
+    left: 56.5%;
+    width: 540px;
+}
+.text_2{
+    color: white;
+    font-size: 47px;
+    position: relative;
+    bottom: 68%;
+    left: 10%;
+}
+.text_3{
+    color: white;
+    font-size: 22px;
+    margin-top: -354px;
+    margin-left: 140px;
+}
+.three{
+    margin-top: 5px;
+    width: 100%;
+    height:500px;
+    float: left;
+    background-color: black;
+}
+.image_mb{
+    width: 35%;
+    height: 304px;
+    margin-left: 117px;
+    margin-top: 27px;
+}
+.anim_card{
+    background-color: black;
+    width: 299px;
+    height: 91px;
+    position: relative;
+    left: 15%;
+    border-width: 1px;
+    border-color: darkslategray;
+    border-style: solid;
+    border-radius: 11px;
+}
+.boximg{
+    height: 72px;
+    width: 54px;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.boxtext{
+    color: white;
+    position: relative;
+    bottom: 83%;
+    left: 29%;
+    font-size: 14px;
+}
+.down{
+    color: blue;
+    font-size: 12px;
+    position: relative;
+    bottom: 100%;
+    left: 29%;
+}
+.gif_box{
+    width: 47px;
+    height: 37px;
+    position: relative;
+    left: 74%;
+    bottom: 156%;
+}
+.three_head{
+    color: white;
+    margin-top: -20%;
+    margin-left: 45%;
+    font-size: 47px;
+}
+.three_text{
+    color: white;
+    margin-left: 45%;
+    font-size: 22px;
+    margin-top: -5%;
+}
+.four{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    margin-top: 5px;
+    float: left;
+
+}
+.video2_div{
+    width: 350px;
+    height: 200px;
+    background-color:black;
+    margin-left: 58%;
+    margin-top: 10%;
+    position: relative;
+    bottom: 15%;
+
+
+}
+.video2{
+    height: 100%;
+    width: 100%;
+}
+.tv2{
+    height: 87%;
+    position: relative;
+    left: 50%;
+    margin-top: -309px;
+}
+.four_head{
+    color: white;
+    margin-left: 10%;
+    margin-top: -24%;
+    font-size: 47px;
+}
+.four_text{
+    color: white;
+    font-size: 22px;
+    margin-left: 10%;
+    margin-top: -2%;
+}
+.five{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    margin-top: 5px;
+    float: left;
+}
+.image4{
+    width: 36%;
+    margin-left: 11%;
+    margin-top: 4%;
+}
+.five_head{
+    color: white;
+    margin-left: 51%;
+    margin-top: -24%;
+    font-size: 49px;
+}
+.five_text{
+    color: white;
+    margin-left: 51%;
+    font-size: 22px;
+    margin-top: -2%;
+}
+.six{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    float: left;
+    margin-top: 5px;
+    text-align: center;
+}
+.six_head{
+    color: white;
+    font-size: 47px;
+}
+.faq{
+    color: white;
+    background-color: #303030;
+    width: 53%;
+    height: 83px;
+    text-align: left;
+    font-size: 29px;
+    cursor: pointer;
+    padding-left: 27px;
+}
+.material-symbols-outlined0{
+    font-size: 33px;
+    padding-left: 512px;
+    padding-top: -2px;
+    position: relative;
+    top: 4px;
+}
+
+
+.material-symbols-outlined1{
+    font-size: 33px;
+    padding-left: 312px;
+
+}
+.material-symbols-outlined2{
+    padding-left: 434px;
+}
+.faq2{
+    color: white;
+    background-color: #303030;
+    width: 53%;
+    height: 83px;
+    text-align: left;
+    font-size: 29px;
+    cursor: pointer;
+    padding-left: 27px;
+    margin-left: 8px;
+}
+.six_text{
+    color: white;
+    margin-top: 74px;
+    font-size: 20px;
+}
+.search_2{
+    width: 503px;
+    height: 63px;
+    position: relative;
+    right: 6%;
+    font-size: 18px;
+}
+.button_3{
+    background-color: red;
+    color: white;
+    height: 71.5px;
+    width: 193px;
+    position: relative;
+    left: 17%;
+    bottom: 10%;
+    font-size: 21px;
+    cursor: pointer;
+}
+.footer{
+    width: 100%;
+    height: 355px;
+    background-color: black;
+    float: left;
+    margin-top: 5px;
+    padding-left: 20%;
+    padding-top: 5%;
+}
+.call{
+    color: #737373;
+    font-size: 15px;
+    font-weight: 500;
+}
+.foot_table{
+    color: white;
+    text-align: left;
+    width: 56%;
+    font-size: 12px;
+    margin-top: 26px;
+}
+.raw
+{
+    height: 33px;
+}
+.table_text{
+    text-decoration: none;
+    font-size: 12px;
+    color:#737373;
+    font-weight: 500;
+}
+.table_text:hover{
+    text-decoration: underline;
+}
+.foot_button{
+    margin-top: 2%;
+    height: 54px;
+    width: 130px;
+    background-color: transparent;
+    color: #737373;
+    font-size: 17px;
+    padding-left: 7px;
+    border-style: solid;
+    border-color: #737373;
+    border-width: -22.5px;
+    border-width: thin;
+}
+.text_net{
+    color: #737373;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 2%;
+
+}
